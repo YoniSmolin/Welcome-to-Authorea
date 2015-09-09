@@ -1,1 +1,2 @@
 untitled.html
+figures/KinectNetwork/KinectNetwork.svg
